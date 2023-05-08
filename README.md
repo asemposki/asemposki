@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm a Ph.D. student studying with Daniel R. Phillips at Ohio University. I am a member of the [BAND collaboration](https://github.com/bandframework/bandframework) and I am currently developing the Bayesian Model Mixing (BMM) package [Taweret](https://github.com/danOSU/Taweret) with my fellow BAND and OSU collaborators. I work in the field of both creating and applying Bayesian Model Mixing methods to a wide variety of nuclear physics problems, performing crucial uncertainty quantification (UQ). 
+
+Some of my current and future research interests are:
+- Bayesian Model Mixing/Uncertainty Quantification
+- Equation of State (EOS) of dense matter/neutron stars
+- Ab initio many-body methods
+- Effective field theories (EFTs)
+- Quantum Computing (and its application to nuclear physics and many-body methods)
 
 <!--
 **asemposki/asemposki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

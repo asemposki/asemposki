@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a Ph.D. student studying with [Daniel R. Phillips](https://github.com/DanielRPhillips) at Ohio University. I am a member of the [BAND collaboration](https://github.com/bandframework/bandframework) and I am currently developing the Bayesian Model Mixing (BMM) package [Taweret](https://github.com/TaweretOrg/Taweret) with my fellow BAND and OSU collaborators. I work in the field of both creating and applying Bayesian Model Mixing methods to a wide variety of nuclear physics problems, performing crucial uncertainty quantification (UQ). 
+I'm a Ph.D. student studying with [Daniel R. Phillips](https://github.com/DanielRPhillips) at Ohio University. I am a member of the [BAND collaboration](https://github.com/bandframework) and I am currently developing the Bayesian Model Mixing (BMM) package [Taweret](https://github.com/TaweretOrg/Taweret) with my fellow BAND and OSU collaborators. I work in the field of both creating and applying Bayesian Model Mixing methods to a wide variety of nuclear physics problems, performing crucial uncertainty quantification (UQ). 
 
 Some of my current and future research interests are:
 - Bayesian Model Mixing/Uncertainty Quantification

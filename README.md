@@ -6,6 +6,7 @@ Some of my current and future research interests are:
 - Bayesian Model Mixing/Uncertainty Quantification
 - Equation of State (EOS) of dense matter/neutron stars
 - Ab initio many-body methods
+- Emulators for dense matter and nuclear structure
 - Effective field theories (EFTs)
 - Quantum Computing (and its application to nuclear physics and many-body methods)
 

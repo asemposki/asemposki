@@ -21,6 +21,7 @@ I'm a member of:
 - [The Bayesian Analysis of Nuclear Dynamics (BAND) collaboration](https://bandframework.github.io)
 - [The Modular Unified Solver of the Equation of State (MUSES) collaboration](https://musesframework.io)
 - [The FRIB Theory Alliance](https://fribtheoryalliance.org)
+- [The CompactObject team](https://github.com/ChunHuangPhy/CompactObject)
 
 <!--
 **asemposki/asemposki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

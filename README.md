@@ -17,6 +17,7 @@ Some of my close collaborators are:
 - [Dick Furnstahl](https://github.com/furnstahl) (OSU)
 - [Christian Drischler](https://github.com/cdrischler) (OU/FRIB)
 - [Sudhanva Lalit](https://github.com/sudhanvalalit) (FRIB)
+- [Mia Kumamoto](https://github.com/mlkumamoto) (N3AS/Berkeley/OU)
 
 I'm a member of:
 - [The Bayesian Analysis of Nuclear Dynamics (BAND) collaboration](https://bandframework.github.io)
